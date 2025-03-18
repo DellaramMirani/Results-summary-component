@@ -4,4 +4,5 @@ This project is a solution to a challenge from [Frontend Mentor](https://www.fro
 
 ## Technologies Used
 - HTML
-- CSS
+- SCSS
+- Tailwind
